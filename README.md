@@ -2,6 +2,8 @@
 
 Una herramienta de línea de comandos (CLI) para obtener y mostrar información de películas de The Movie Database (TMDB) API.
 
+Se trata de una propuesta de solución al [TMDB CLI Tool](https://roadmap.sh/projects/tmdb-cli) from [roadmap.sh](https://roadmap.sh/).
+
 ## Características
 
 - Obtener películas populares
